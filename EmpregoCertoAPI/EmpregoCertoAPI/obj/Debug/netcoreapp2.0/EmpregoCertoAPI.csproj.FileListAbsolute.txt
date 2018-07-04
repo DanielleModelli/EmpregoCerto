@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\bin\Debug\netcoreapp2.0\EmpregoCertoAPI.deps.json
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\bin\Debug\netcoreapp2.0\EmpregoCertoAPI.runtimeconfig.json
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\bin\Debug\netcoreapp2.0\EmpregoCertoAPI.runtimeconfig.dev.json
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\bin\Debug\netcoreapp2.0\EmpregoCertoAPI.dll
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\bin\Debug\netcoreapp2.0\EmpregoCertoAPI.pdb
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\obj\Debug\netcoreapp2.0\EmpregoCertoAPI.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\obj\Debug\netcoreapp2.0\EmpregoCertoAPI.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\obj\Debug\netcoreapp2.0\EmpregoCertoAPI.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\obj\Debug\netcoreapp2.0\EmpregoCertoAPI.AssemblyInfo.cs
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\obj\Debug\netcoreapp2.0\EmpregoCertoAPI.dll
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\obj\Debug\netcoreapp2.0\EmpregoCertoAPI.pdb
+C:\Users\danie\source\repos\EmpregoCertoAPI\EmpregoCertoAPI\bin\Debug\netcoreapp2.0\EmpregoCertoAPI.xml
